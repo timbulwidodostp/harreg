@@ -2,4 +2,4 @@
 1
 2
 3
-p cvmtest K-sample Cramer-von Mises equality-of-distributions test Use cvmtest With STATA 19
+p harreg Time-series regression with HAR standard errors and fixed-b inference Use harreg With STATA 19
