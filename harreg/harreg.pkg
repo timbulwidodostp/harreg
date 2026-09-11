@@ -1,4 +1,9 @@
-D 'cvmtest': K-sample Cramer-von Mises equality-of-distributions test Use cvmtest With STATA 19
+D 'harreg': Time-series regression with HAR standard errors and fixed-b inference Use harreg With STATA 19
 D
-F cvmtest.ado
-F cvmtest.sthlp
+F har_utils.mata
+F harreg.ado
+F harreg.sthlp
+F harreg_p.ado
+F harwald.ado
+F harwald.sthlp
+F lharreg.mlib
