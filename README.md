@@ -1,6 +1,8 @@
 # harreg
 Time-series regression with HAR standard errors and fixed-b inference Use harreg With STATA 19
 
+https://www.youtube.com/watch?v=gvm7WRbEjZY
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
